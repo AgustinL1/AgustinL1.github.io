@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>TennoMore</title>
-	<atom:link href="https://agustinl1.github.io/feed/" rel="self" type="application/rss+xml" />
+	<title>Demos &#8211; TennoMore</title>
+	<atom:link href="https://agustinl1.github.io/category/demos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agustinl1.github.io/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 29 Sep 2022 23:52:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Sep 2022 23:16:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://agustinl1.github.io/wp-content/uploads/2022/09/TNM-150x150.jpg</url>
-	<title>TennoMore</title>
+	<title>Demos &#8211; TennoMore</title>
 	<link>https://agustinl1.github.io/</link>
 	<width>32</width>
 	<height>32</height>
@@ -57,50 +57,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://agustinl1.github.io/first-demo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>About us</title>
-		<link>https://agustinl1.github.io/about-us/</link>
-					<comments>https://agustinl1.github.io/about-us/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 29 Sep 2022 14:41:21 +0000</pubDate>
-				<category><![CDATA[About us]]></category>
-		<guid isPermaLink="false">https://agustinl1.github.io/?p=1</guid>
-
-					<description><![CDATA[Bienvenido! Somos el grupo Ten no More de la materia de Diseño 2022. Aquí postearemos updates sobre el proyecto que estaremos realizando a lo largo del año. “Stay Hungry, Stay Foolish” Steve Jobs Saludos Apraiz Thomas Azqueta Francisco Gopar Amaike Lalanne Agustin Lujan Nicolas Martinefsky Ezequiel Valdes Tomas]]></description>
-										<content:encoded><![CDATA[
-<p>Bienvenido! Somos el grupo Ten no More de la materia de Diseño 2022. Aquí postearemos updates sobre el proyecto que estaremos realizando a lo largo del año.</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-
-
-
-<blockquote class="wp-block-quote"><p><strong>“Stay Hungry, Stay Foolish”</strong></p><cite><em>Steve Jobs</em></cite></blockquote>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p>Saludos</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-
-
-
-<ul><li>Apraiz Thomas</li><li>Azqueta Francisco</li><li>Gopar Amaike</li><li>Lalanne Agustin</li><li>Lujan Nicolas</li><li>Martinefsky Ezequiel</li><li>Valdes Tomas</li></ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://agustinl1.github.io/about-us/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
