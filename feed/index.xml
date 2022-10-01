@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TennoMore</title>
+	<atom:link href="https://agustinl1.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agustinl1.github.io/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 29 Sep 2022 23:52:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://agustinl1.github.io/wp-content/uploads/2022/09/TNM-150x150.jpg</url>
+	<title>TennoMore</title>
+	<link>https://agustinl1.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>First demo</title>
+		<link>https://agustinl1.github.io/first-demo/</link>
+					<comments>https://agustinl1.github.io/first-demo/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2022 23:12:49 +0000</pubDate>
+				<category><![CDATA[Demos]]></category>
+		<guid isPermaLink="false">https://agustinl1.github.io/?p=23</guid>
+
+					<description><![CDATA[Nuestra primera demo fue el día 27/9 y salió de maravillas! Luego de trabajar muchísimo durante una semana logramos formar un buen producto, aún con cosas para mejorar, pero con bases sólidas que sin duda nos mantendrá ocupados un buen tiempo! Tenemos muchas ideas para los próximos incrementos, y esperamos lograr desarrollarlas! Les dejamos el [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Nuestra primera demo fue el día 27/9 y salió de maravillas! Luego de trabajar muchísimo durante una semana logramos formar un buen producto, aún con cosas para mejorar, pero con bases sólidas que sin duda nos mantendrá ocupados un buen tiempo!</p>
+
+
+
+<p>Tenemos muchas ideas para los próximos incrementos, y esperamos lograr desarrollarlas!</p>
+
+
+
+<p>Les dejamos el video de lo que fue la primer presentación. Pronto se vienen más.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Demo Sala - Ten no More" width="500" height="281" src="https://www.youtube.com/embed/AzalvUKPs-o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agustinl1.github.io/first-demo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>About us</title>
+		<link>https://agustinl1.github.io/about-us/</link>
+					<comments>https://agustinl1.github.io/about-us/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2022 14:41:21 +0000</pubDate>
+				<category><![CDATA[About us]]></category>
+		<guid isPermaLink="false">https://agustinl1.github.io/?p=1</guid>
+
+					<description><![CDATA[Bienvenido! Somos el grupo Ten no More de la materia de Diseño 2022. Aquí postearemos updates sobre el proyecto que estaremos realizando a lo largo del año. “Stay Hungry, Stay Foolish” Steve Jobs Saludos Apraiz Thomas Azqueta Francisco Gopar Amaike Lalanne Agustin Lujan Nicolas Martinefsky Ezequiel Valdes Tomas]]></description>
+										<content:encoded><![CDATA[
+<p>Bienvenido! Somos el grupo Ten no More de la materia de Diseño 2022. Aquí postearemos updates sobre el proyecto que estaremos realizando a lo largo del año.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>“Stay Hungry, Stay Foolish”</strong></p><cite><em>Steve Jobs</em></cite></blockquote>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Saludos</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+
+<ul><li>Apraiz Thomas</li><li>Azqueta Francisco</li><li>Gopar Amaike</li><li>Lalanne Agustin</li><li>Lujan Nicolas</li><li>Martinefsky Ezequiel</li><li>Valdes Tomas</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agustinl1.github.io/about-us/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
