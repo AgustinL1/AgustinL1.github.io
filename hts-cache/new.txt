@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:07:20	69/69	---MCZ	200	added ('OK')	text/plain	date:Sat,%2001%20Oct%202022%2001:07:20%20GMT	http://tennomore.local/robots.txt		(from )
+22:07:23	173760/173760	---MCZ	200	added ('OK')	text/html	date:Sat,%2001%20Oct%202022%2001:07:21%20GMT	http://tennomore.local/about-us/	C:/My%20Web%20Sites/TNM/tennomore.local/about-us/index.html	(from )
+22:07:24	260566/260566	---MCZ	200	added ('OK')	text/html	date:Sat,%2001%20Oct%202022%2001:07:20%20GMT	http://tennomore.local/	C:/My%20Web%20Sites/TNM/tennomore.local/index.html	(from )
+22:07:24	131749/131749	---MCZ	200	added ('OK')	text/html	date:Sat,%2001%20Oct%202022%2001:07:21%20GMT	http://tennomore.local/first-demo/	C:/My%20Web%20Sites/TNM/tennomore.local/first-demo/index.html	(from )
