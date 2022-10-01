@@ -11,8 +11,8 @@
 	<title>Demos &#8211; TennoMore</title>
 	<atom:link href="https://agustinl1.github.io/category/demos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agustinl1.github.io/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 29 Sep 2022 23:16:07 +0000</lastBuildDate>
+	<description>Based on AgileTalk</description>
+	<lastBuildDate>Fri, 30 Sep 2022 15:27:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://agustinl1.github.io/wp-content/uploads/2022/09/TNM-150x150.jpg</url>
+	<url>https://agustinl1.github.io/wp-content/uploads/2022/09/cropped-TNM-116x116.jpg</url>
 	<title>Demos &#8211; TennoMore</title>
 	<link>https://agustinl1.github.io/</link>
 	<width>32</width>
@@ -38,24 +38,7 @@
 		<guid isPermaLink="false">https://agustinl1.github.io/?p=23</guid>
 
 					<description><![CDATA[Nuestra primera demo fue el día 27/9 y salió de maravillas! Luego de trabajar muchísimo durante una semana logramos formar un buen producto, aún con cosas para mejorar, pero con bases sólidas que sin duda nos mantendrá ocupados un buen tiempo! Tenemos muchas ideas para los próximos incrementos, y esperamos lograr desarrollarlas! Les dejamos el [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Nuestra primera demo fue el día 27/9 y salió de maravillas! Luego de trabajar muchísimo durante una semana logramos formar un buen producto, aún con cosas para mejorar, pero con bases sólidas que sin duda nos mantendrá ocupados un buen tiempo!</p>
-
-
-
-<p>Tenemos muchas ideas para los próximos incrementos, y esperamos lograr desarrollarlas!</p>
-
-
-
-<p>Les dejamos el video de lo que fue la primer presentación. Pronto se vienen más.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Demo Sala - Ten no More" width="500" height="281" src="https://www.youtube.com/embed/AzalvUKPs-o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://agustinl1.github.io/first-demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for TennoMore	</title>
-	<atom:link href="https://agustinl1.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://agustinl1.github.io/</link>
+	Comments on: First demo	</title>
+	<atom:link href="https://agustinl1.github.io/first-demo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agustinl1.github.io/first-demo/</link>
 	<description>Based on AgileTalk</description>
-	<lastBuildDate>Fri, 30 Sep 2022 17:25:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2022 15:27:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
