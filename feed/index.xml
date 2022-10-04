@@ -12,7 +12,7 @@
 	<atom:link href="https://agustinl1.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agustinl1.github.io/</link>
 	<description>Based on AgileTalk</description>
-	<lastBuildDate>Sat, 01 Oct 2022 02:11:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 15:21:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Final del primer Sprint</title>
+		<link>https://agustinl1.github.io/final-del-primer-sprint/</link>
+					<comments>https://agustinl1.github.io/final-del-primer-sprint/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 14:55:12 +0000</pubDate>
+				<category><![CDATA[Demos]]></category>
+		<guid isPermaLink="false">https://agustinl1.github.io/?p=279</guid>
+
+					<description><![CDATA[El día 4/10 dimos por finalizado el primer sprint. Con diversos altibajos supimos salir adelante ante las adversidades que nos presentó el proyecto y logramos cumplir la mayoría de los objetivos planteados al comienzo. Les compartimos el video que resume todo lo desarrollado hasta ahora.]]></description>
+		
+					<wfw:commentRss>https://agustinl1.github.io/final-del-primer-sprint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>About us</title>
 		<link>https://agustinl1.github.io/aboutus/</link>
 					<comments>https://agustinl1.github.io/aboutus/#respond</comments>

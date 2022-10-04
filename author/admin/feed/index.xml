@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Demos &#8211; TennoMore</title>
-	<atom:link href="https://agustinl1.github.io/category/demos/feed/" rel="self" type="application/rss+xml" />
+	<title>admin &#8211; TennoMore</title>
+	<atom:link href="https://agustinl1.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agustinl1.github.io/</link>
 	<description>Based on AgileTalk</description>
-	<lastBuildDate>Tue, 04 Oct 2022 15:21:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 14:55:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://agustinl1.github.io/wp-content/uploads/2022/09/cropped-TNM-116x116.jpg</url>
-	<title>Demos &#8211; TennoMore</title>
+	<title>admin &#8211; TennoMore</title>
 	<link>https://agustinl1.github.io/</link>
 	<width>32</width>
 	<height>32</height>
@@ -40,6 +40,23 @@
 					<description><![CDATA[El día 4/10 dimos por finalizado el primer sprint. Con diversos altibajos supimos salir adelante ante las adversidades que nos presentó el proyecto y logramos cumplir la mayoría de los objetivos planteados al comienzo. Les compartimos el video que resume todo lo desarrollado hasta ahora.]]></description>
 		
 					<wfw:commentRss>https://agustinl1.github.io/final-del-primer-sprint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>About us</title>
+		<link>https://agustinl1.github.io/aboutus/</link>
+					<comments>https://agustinl1.github.io/aboutus/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 00:46:55 +0000</pubDate>
+				<category><![CDATA[About us]]></category>
+		<guid isPermaLink="false">https://agustinl1.github.io/?p=215</guid>
+
+					<description><![CDATA[Bienvenido! Somos el grupo Ten no More de la materia de Diseño 2022. Aquí postearemos updates sobre el proyecto que estaremos realizando a lo largo del año. Saludos Apraiz Thomas Azqueta Francisco Gopar Amaike Lalanne Agustin Lujan Nicolas Martinefsky Ezequiel Valdes Tomas]]></description>
+		
+					<wfw:commentRss>https://agustinl1.github.io/aboutus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
