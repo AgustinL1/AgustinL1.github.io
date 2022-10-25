@@ -12,7 +12,7 @@
 	<atom:link href="https://agustinl1.github.io/category/demos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agustinl1.github.io/</link>
 	<description>Based on AgileTalk</description>
-	<lastBuildDate>Tue, 04 Oct 2022 15:21:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Oct 2022 14:55:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,18 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Final del primer Sprint</title>
+		<title>Final del primer sprint</title>
 		<link>https://agustinl1.github.io/final-del-primer-sprint/</link>
 					<comments>https://agustinl1.github.io/final-del-primer-sprint/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 25 Oct 2022 14:55:17 +0000</pubDate>
+				<category><![CDATA[Demos]]></category>
+		<guid isPermaLink="false">https://agustinl1.github.io/?p=300</guid>
+
+					<description><![CDATA[El día 4/10 dimos por finalizado el primer sprint. Con diversos altibajos supimos salir adelante ante las adversidades que nos presentó el proyecto y logramos cumplir la mayoría de los objetivos planteados al comienzo. Les compartimos el video que resume todo lo desarrollado hasta ahora.]]></description>
+		
+					<wfw:commentRss>https://agustinl1.github.io/final-del-primer-sprint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Update 4/10: Nuevas Features</title>
+		<link>https://agustinl1.github.io/update4-10/</link>
+					<comments>https://agustinl1.github.io/update4-10/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 14:55:12 +0000</pubDate>
 				<category><![CDATA[Demos]]></category>
 		<guid isPermaLink="false">https://agustinl1.github.io/?p=279</guid>
 
-					<description><![CDATA[El día 4/10 dimos por finalizado el primer sprint. Con diversos altibajos supimos salir adelante ante las adversidades que nos presentó el proyecto y logramos cumplir la mayoría de los objetivos planteados al comienzo. Les compartimos el video que resume todo lo desarrollado hasta ahora.]]></description>
+					<description><![CDATA[El día 4/10 preparamos una nueva demo donde pudimos mostrar algunos de los avances tangibles hasta el momento. Si bien aún faltan muchas ideas que queremos implementar, consideramos que vamos por un buen camino. Les compartimos el video que resume todo lo desarrollado hasta ahora.]]></description>
 		
-					<wfw:commentRss>https://agustinl1.github.io/final-del-primer-sprint/feed/</wfw:commentRss>
+					<wfw:commentRss>https://agustinl1.github.io/update4-10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
